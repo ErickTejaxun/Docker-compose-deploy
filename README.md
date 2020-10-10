@@ -1,7 +1,7 @@
 # Laboratorio Software Avanzado
-## Práctica 8
+## Práctica 9
 
-En esta práctica de laboratorio se ha escrito un despliegue de una arquitectura que consta de un servidor de base de datos y un servidor web server escrito en python a través de contenedores y automatizando su despliegue a través de docker-composer. 
+Como continuación de la práctica número 8, se ha agregado un volumen lógico al contenedor de la base de datos para hacer persistente la información.
 
 
 ## Base de datos: Contenedor con Imagen Mysql:latest
